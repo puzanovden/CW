@@ -1,0 +1,42 @@
+Counrty|Code|Name
+{000005}|000002|BMW
+|000003|Audi
+|000004|Mercedes
+|000005|Honda
+{000002}|000006|Ford Focus II
+|000008|Volkswagen Golf V*
+|000009|Toyota Corolla
+|000010|Honda Civic
+|000011|Mazda 3
+|000012|Renault Megane II
+|000014|Volkswagen Passat B6
+|000015|Nissan X-Trail
+|000016|Opel Astra H
+|000018|Honda Accord
+|000019|Ford Focus III
+|000020|Audi A4
+|000021|Volkswagen Passat B7
+|000022|Toyota Camry
+|000023|Honda CR-V
+|000024|Mazda 6
+|000025|Renault Clio III
+|000026|BMW X5
+|000027|Volkswagen Golf VI
+|000028|Nissan Juke
+|000029|Opel Astra J
+|000030|BMW X3
+|000031|Honda Jazz
+|000032|Ford Fiesta
+|000033|Audi A5
+|000034|Volkswagen Polo
+|000035|Toyota Yaris
+|000036|Honda Insight
+|000037|Mazda CX-5
+|000038|VW Golf VI
+|000039|Ford Focus 3
+|000040|Renault Megane
+|000041|Skoda Octavia A5
+|000042|Hyundai Elantra
+|000043|BMW 3 E90
+|000044|Audi A4 B8
+{000013}|000045|укекуе

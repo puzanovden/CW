@@ -477,7 +477,7 @@ namespace CW
             var header = string.Join("|", fields.Select(f => f.Name));
 
             Clipboard.SetText(header);
-            MessageBox.Show("Шаблон скопійовано в буфер обміну. Вставте його в текстовий файл або Excel.", "Готово", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Шаблон скопійовано в буфер обміну. Вставте його в текстовий файл", "Готово", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
     }

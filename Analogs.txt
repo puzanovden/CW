@@ -1,0 +1,2 @@
+Part|AnalogPart|Image|Code|Name
+{000003}|{000017}||000001|

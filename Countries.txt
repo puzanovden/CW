@@ -1,0 +1,27 @@
+Code|Name
+000001|Україна
+000002|United States  
+000003|Canada  
+000004|United Kingdom  
+000005|Germany  
+000006|France  
+000007|Italy  
+000008|Spain  
+000009|Netherlands  
+000010|Sweden  
+000011|Norway  
+000012|Finland  
+000013|Denmark  
+000014|Poland  
+000015|Czech Republic  
+000016|Hungary  
+000017|Australia  
+000018|New Zealand  
+000019|Japan  
+000020|South Korea  
+000021|China  
+000022|India  
+000023|Brazil  
+000024|Mexico  
+000025|South Africa  
+000026|Argentina  
